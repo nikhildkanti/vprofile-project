@@ -24,6 +24,7 @@
 
     <dependencies>
         <dependency>
+		<!-- dummy -->
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
             <version>${spring.version}</version>
